@@ -2,7 +2,7 @@
 
 Programming Assignments, 2020 1st semester
 
-**For details, check out the handout.pdf of each projects.**
+**For details, check out the handout.pdf of each project.**
 
 ```shell
 # Test

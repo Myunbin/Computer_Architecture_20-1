@@ -1,4 +1,4 @@
-## Computer Organization (SCE212)
+# Computer Organization (SCE212)
 
 Programming Assignments, 2020 1st semester
 

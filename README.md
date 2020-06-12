@@ -1,6 +1,9 @@
 ## Computer Organization (SCE212)
 
 Programming Assignments, 2020 1st semester
+
+**For details, check out the handout.pdf of each projects.**
+
 ```shell
 # Test
 $ make test # This will test all examples in sample_output
@@ -17,4 +20,6 @@ $ make test # This will test all examples in sample_output
 
 ### Lab #3: MIPS Data Cache Simulator
 
-For details, check out the handout.pdf of each projects.
+
+
+
